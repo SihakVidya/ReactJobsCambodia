@@ -1,0 +1,130 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team in Phnom Penh, Cambodia. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "location": "Phnom Penh, Cambodia",
+      "salary": "$1,500 - $2,000",
+      "company": {
+        "name": "TechVision Solutions",
+        "description": "TechVision Solutions is a leading technology company in Cambodia, specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@techvision.com.kh",
+        "contactPhone": "+855 23 555 5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "location": "Siem Reap, Cambodia",
+      "description": "Join our team as a Front-End Developer in vibrant Siem Reap. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "$1,400 - $1,800",
+      "company": {
+        "name": "Angkor Tech",
+        "description": "Angkor Tech is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@angkortech.com.kh",
+        "contactPhone": "+855 63 555 5555"
+      }
+    },
+    {
+      "id": "3",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "location": "Sihanoukville, Cambodia",
+      "description": "Are you passionate about front-end development? Join our team in dynamic Sihanoukville and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "salary": "$1,300 - $1,700",
+      "company": {
+        "name": "Coastal Cloud",
+        "description": "Coastal Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@coastalcloud.com.kh",
+        "contactPhone": "+855 34 555 5555"
+      }
+    },
+    {
+      "id": "4",
+      "title": "React Front-End Developer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Front-End Developer in the picturesque city of Battambang, Cambodia. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+      "location": "Battambang, Cambodia",
+      "salary": "$900 - $1,200",
+      "company": {
+        "name": "Elite Innovations",
+        "description": "Elite Innovations is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@eliteinnovations.com.kh",
+        "contactPhone": "+855 53 555 5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in the fast-growing tech hub of Phnom Penh, Cambodia. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "location": "Phnom Penh, Cambodia",
+      "salary": "$2,000 - $2,500",
+      "company": {
+        "name": "Mekong Technologies",
+        "description": "Mekong Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@mekongtech.com.kh",
+        "contactPhone": "+855 23 555 5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in the beautiful province of Kampot, Cambodia. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "location": "Kampot, Cambodia",
+      "salary": "$2,300 - $2,800",
+      "company": {
+        "name": "Riverfront Solutions",
+        "description": "Riverfront Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@riverfront.com.kh",
+        "contactPhone": "+855 33 555 5555"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Back-End Developer",
+      "type": "Full-Time",
+      "location": "Phnom Penh, Cambodia",
+      "description": "We are seeking a Back-End Developer with experience in Node.js, PostgreSQL, and cloud services.",
+      "salary": "$1,800 - $2,200",
+      "company": {
+        "name": "Cambodia Cloud Solutions",
+        "description": "We provide cloud-based solutions and software development services across Southeast Asia.",
+        "contactEmail": "contact@cambodiacloud.com.kh",
+        "contactPhone": "+855 23 999 9999"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Junior JavaScript Developer",
+      "type": "Full-Time",
+      "location": "Phnom Penh, Cambodia",
+      "description": "Looking for a Junior JavaScript Developer eager to learn and contribute to building dynamic web applications.",
+      "salary": "$1,000 - $1,300",
+      "company": {
+        "name": "KhmerTech",
+        "description": "KhmerTech is a startup specializing in web and mobile app development.",
+        "contactEmail": "contact@khmertech.com.kh",
+        "contactPhone": "+855 12 888 888"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Front-End Developer",
+      "type": "Part-Time",
+      "location": "Siem Reap, Cambodia",
+      "description": "Part-Time Front-End Developer with experience in React.js, CSS3, and JavaScript. Flexible hours.",
+      "salary": "$800 - $1,100",
+      "company": {
+        "name": "SmartTech Solutions",
+        "description": "SmartTech provides innovative tech solutions for local businesses in Cambodia.",
+        "contactEmail": "contact@smarttech.com.kh",
+        "contactPhone": "+855 63 111 1111"
+      }
+    }
+  ]
+}
