@@ -6,7 +6,6 @@ This is a simple mock job finding website built with React (using Vite) as the f
 
 1. Clone the repository:
    git clone https://github.com/SihakVidya/ReactJobsCambodia.git
-   cd mock-cambodia-job-website
 
 2. Install dependencies:
    npm install
